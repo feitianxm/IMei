@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  IMeiApp
+
+  Created by Chengfei Liang on 16/10/6.
+  Copyright © 2016年 i美. All rights reserved.
+*/
+
+
+"查看安全wifi列表" = "scanSafeWifiList";
